@@ -1,4 +1,4 @@
-fromfroimport mysql.connector
+import mysql.connector
 from faker import Faker
 import random
 from dotenv import load_dotenv
